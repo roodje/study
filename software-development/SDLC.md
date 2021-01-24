@@ -30,13 +30,13 @@ Questions typically answered in this phase are.
     o	Does the system needs to be high available<br/>
     o	Will there be a high load on the system (a lot of concurrent user)?<br/>
     o	What data storage do we need to select<br/>
--	What tools do we have available in the company
-    o	Some tools (like databases) come with high licenses costs
-    o	Not all teams can decide themselves what they want to use
-    o	The design needs to make sure the software can be supported and operated within the organization’s constraints
--	How do the different components communicate
-    o	In a complex system there are multiple applications communicating with each other to complete a business process
-    o	What data format will be used
+-	What tools do we have available in the company<br/>
+    o	Some tools (like databases) come with high licenses costs<br/>
+    o	Not all teams can decide themselves what they want to use<br/>
+    o	The design needs to make sure the software can be supported and operated within the organization’s constraints<br/>
+-	How do the different components communicate<br/>
+    o	In a complex system there are multiple applications communicating with each other to complete a business process<br/>
+    o	What data format will be used<br/>
 
 
 
