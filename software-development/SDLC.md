@@ -50,8 +50,8 @@ It's important to understand that making fundamental changes to the software arc
 
 
 
-**Output of this phase:** a software design
-**Persons involved:** Engineers, either a (senior) software engineer of the team or an architect
+**Output of this phase:** a software design <br/>
+**Persons involved:** Engineers, either a (senior) software engineer of the team or an architect<br/>
 
 
 ---
