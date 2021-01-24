@@ -1,6 +1,6 @@
 # Software development lifecycle
 
-When developing software, you usually do this for a client or a customer, together with other engineers. Software Development Life Cycle (SDLC) is the process used by the software industry to design, develop and test high quality software. There are different stages or phases in software development that eventually contribute to working software that can be used by customers. There is an ordering of the phases, each phase produces deliverables required by the next phase. It’s important to understand the different stages as it allows you to make a step from local engineering on your laptop to working in a team with others. This chapter will break down the different stages and roles and responsibilities involved.
+When developing software, you usually do this for a client or a customer, together with other engineers. Software Development Life Cycle (SDLC) is the process used by the software industry to design, develop and test high quality software. There are different phases in the software development that when finished will result in working software. The SDLC describes different phases with an ordering of the phases, each phase produces deliverables required by the next phase. It’s important to understand the different stages as it allows you to make a step from local engineering on your laptop to working in a team with others. This chapter will break down the different stages and roles and responsibilities involved.
 
 There are 6 cycles for the development lifecycle that are important to distinguish. Some SDLC’s have one or two phases more but the overall concept remains the same, hence why we are only focusing on the following 6.
 
@@ -12,10 +12,12 @@ There are 6 cycles for the development lifecycle that are important to distingui
 6.	Review
 
 ---
-## Requirements
+## Requirements gathering
 
 •	**Background**: The requirement is the first stage in the SDLC process. In order to built new software as an engineer you need to make sure you built what a customer actually wants to use. Most software developing firms agree that the first phase of the process begins by identifying a need. This  requirement is a wish from a customer that needs to be built. It’s usually the job of a Product manager / Product owner to define the requirements.
+
 •	**Output of this phase**: a list of requirements that make up the project. Requirements can contain a design of how the application should look like. Which buttons are on the page, what collor, what is the behaviour of the application etc.
+
 •	**Person involved**: A product owner or project manager (the roles will be explained later)
 
 ## Software Design
