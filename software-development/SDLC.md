@@ -53,6 +53,31 @@ It's important to understand that making fundamental changes to the software arc
 **Output of this phase:** a software design <br/>
 **Persons involved:** Engineers, either a (senior) software engineer of the team or an architect<br/>
 
+## Software Development
+
+## Testing
+
+## Software Design
+
+## Deployment (and environments)
+
+**Background**
+When working in bigger organizations you will notice that there is more than one environment that is being used to develop and deliver software in a controllable manner. Before we explain a bit on the concepts and the different environments let’s do a small step back and align on a deployment.
+
+{% video src="https://www.youtube.com/watch?v=nZ3BaTY8c9M" %} 
+
+In the explanation above you see the difference of a local development environment and the environment which runs your great software for the rest of the world to see (the production environment). However when multiple people work on the same code base and software program grows in complexity, organizations tend to add one or more environments in the process.
+
+An environment definition and example
+
+**Different environments** <br/>
+Development environment: This is where the software is developed, this could be the laptop of the engineer or a shared server where multiple engineers are working on together. <br/>
+Staging environment<br/>
+Production<br/>
+Activities at different stages of the funnel: testing, performance, security, etc. etc. etc. <br/>
+Different roles<br/>
+Definitions: DTAP<br/>
+
 
 ---
 Reference :
