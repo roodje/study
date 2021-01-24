@@ -22,14 +22,14 @@ There are 6 cycles for the development lifecycle that are important to distingui
 
 ## Software Design
 
-**Background**: Software design is not to be misunderstood for the design of the application (look and feel). In software design the requirements from the previous phase are input for this phase in order to come up with a software design or a software architecture. This design outlines the software’s architecture and specify the technologies used in its development. Depending on the size and complexity of the software design, the process is usually performed by architects or senior engineers. A design can involve a part of a complex system (like a bank) or can be the design of a small application developed by 2 engineers.
+**Background**: Software design is not to be misunderstood for the UI design of the application (look and feel). In software design the requirements from the previous phase are input for this phase in order to come up with a software design or a software architecture. This design outlines the software’s architecture and specify the technologies used in its development. Depending on the size and complexity of the software design, the process is usually performed by architects or senior engineers. A design can involve a part of a complex system (like a bank) or can be the design of a small application developed by 2 engineers.
 
 Questions typically answered in this phase are. 
 
--	What tool or technology is most suited for the job:
-    o	Does the system needs to be high available
-    o	Will there be a high load on the system (a lot of concurrent user)?
-    o	What data storage do we need to select
+-	What tool or technology is most suited for the job:<br/>
+    o	Does the system needs to be high available<br/>
+    o	Will there be a high load on the system (a lot of concurrent user)?<br/>
+    o	What data storage do we need to select<br/>
 -	What tools do we have available in the company
     o	Some tools (like databases) come with high licenses costs
     o	Not all teams can decide themselves what they want to use
