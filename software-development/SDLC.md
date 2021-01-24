@@ -27,16 +27,16 @@ There are 6 cycles for the development lifecycle that are important to distingui
 Questions typically answered in this phase are. 
 
 -	What tool or technology is most suited for the job:
-o	Does the system needs to be high available
-o	Will there be a high load on the system (a lot of concurrent user)?
-o	What data storage do we need to select
+    o	Does the system needs to be high available
+    o	Will there be a high load on the system (a lot of concurrent user)?
+    o	What data storage do we need to select
 -	What tools do we have available in the company
-o	Some tools (like databases) come with high licenses costs, 
-o	Not all teams can decide themselves what they want to use
-o	The design needs to make sure the software can be supported and operated within the organization’s constraints
+    o	Some tools (like databases) come with high licenses costs
+    o	Not all teams can decide themselves what they want to use
+    o	The design needs to make sure the software can be supported and operated within the organization’s constraints
 -	How do the different components communicate
-o	In a complex system there are multiple applications communicating with each other to complete a business process
-o	What data format will be used
+    o	In a complex system there are multiple applications communicating with each other to complete a business process
+    o	What data format will be used
 
 
 
