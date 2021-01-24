@@ -40,10 +40,19 @@ Questions typically answered in this phase are.
 
 ### Software architecture
 
-She software architecture is an important part of software development, the reason why it it’s important is highlighted by the following sentence from Wikipedia: <br/>
+Because of its importance we spend a little bit more time on the software architecture as it is an essential part of software development. 
+As described on [this website on architecture](https://martinfowler.com/architecture/), Architecture is described as the way the highest level components are wired together. The site also explains the reason why architecture matters:
+
+*Architecture is a tricky subject for the customers and users of software products - as it isn't something they immediately perceive. But a poor architecture is a major contributor to the growth of cruft - elements of the software that impede the ability of developers to understand the software. Software that contains a lot of cruft is much harder to modify, leading to features that arrive more slowly and with more defects.*
+
+It's important to understand that making fundamental changes to the software architecture can be costly; changing from a MongoDB database to Postgress can be complex and time consuming. Therefore it's important to understand that: <br/>
 *Software architecture is about making fundamental structural choices that are costly to change once implemented.*
 
-* [Backround in software architecture](https://martinfowler.com/architecture/)
+
+
+**Output of this phase:** a software design
+**Persons involved:** Engineers, either a (senior) software engineer of the team or an architect
+
 
 ---
 Reference :
@@ -54,6 +63,7 @@ a
 ## References
 
 * [Agile Manifesto](https://agilemanifesto.org/principles.html)
+https://martinfowler.com/architecture/
 
 ### Text Books
 
