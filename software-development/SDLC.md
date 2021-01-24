@@ -18,7 +18,7 @@ There are 6 cycles for the development lifecycle that are important to distingui
 
 •	**Output of this phase**: a list of requirements that make up the project. Requirements can contain a design of how the application should look like. Which buttons are on the page, what collor, what is the behaviour of the application etc.
 
-•	**Person involved**: A product owner or project manager (the roles will be explained later)
+•	**Role(s) involved**: A product owner or project manager (the roles will be explained later)
 
 ## Software Design
 
