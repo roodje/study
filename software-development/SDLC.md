@@ -14,11 +14,11 @@ There are 6 cycles for the development lifecycle that are important to distingui
 ---
 ## Requirements gathering
 
-•	**Background**: The requirement is the first stage in the SDLC process. In order to built new software as an engineer you need to make sure you built what a customer actually wants to use. Most software developing firms agree that the first phase of the process begins by identifying a need. This  requirement is a wish from a customer that needs to be built. It’s usually the job of a Product manager / Product owner to define the requirements.
+**Background**: The requirement is the first stage in the SDLC process. In order to built new software as an engineer you need to make sure you built what a customer actually wants to use. Most software developing firms agree that the first phase of the process begins by identifying a need. This  requirement is a wish from a customer that needs to be built. It’s usually the job of a Product manager / Product owner to define the requirements.
 
-•	**Output of this phase**: a list of requirements that make up the project. Requirements can contain a design of how the application should look like. Which buttons are on the page, what collor, what is the behaviour of the application etc.
+**Output of this phase**: a list of requirements that make up the project. Requirements can contain a design of how the application should look like. Which buttons are on the page, what collor, what is the behaviour of the application etc.
 
-•	**Role(s) involved**: A product owner or project manager (the roles will be explained later)
+**Role(s) involved**: A product owner or project manager (the roles will be explained later)
 
 ## Software Design
 
@@ -38,8 +38,12 @@ Questions typically answered in this phase are.
     o	In a complex system there are multiple applications communicating with each other to complete a business process<br/>
     o	What data format will be used<br/>
 
+### Software architecture
 
+She software architecture is an important part of software development, the reason why it it’s important is highlighted by the following sentence from Wikipedia: <br/>
+*Software architecture is about making fundamental structural choices that are costly to change once implemented.*
 
+* [Backround in software architecture](https://martinfowler.com/architecture/)
 
 ---
 Reference :
